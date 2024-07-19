@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+!**/src/main/**/gitignore/
+!**/src/main/**/ex_240625.iml/
 
 ### Eclipse ###
 .apt_generated
